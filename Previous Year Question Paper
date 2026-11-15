@@ -1,0 +1,658 @@
+{
+  "platform": "Pragyora",
+  "package_id": "PRAGYORA-DAILY-2026-11-15",
+  "prepared_on": "2026-11-15",
+  "timezone": "Asia/Kolkata",
+  "language_codes": [
+    "en",
+    "mr",
+    "hi"
+  ],
+  "question_count": 14,
+  "pyq_count": 0,
+  "notice": "All questions in this package are original practice questions except current-affairs fact-check items, which are newly written from the linked official releases. No item is labelled as a previous-year question because an exact original paper/year/source could not be verified for inclusion in this package.",
+  "questions": [
+    {
+      "id": "PRG-20261115-UPSC-001",
+      "exam_tags": [
+        "UPSC CSE",
+        "UPSC CAPF"
+      ],
+      "type": "CURRENT_AFFAIRS",
+      "source_date": "2026-11-04",
+      "subject": "Governance / Statistics",
+      "topic": "VISTAR scheme",
+      "difficulty": "Medium",
+      "question": {
+        "en": "The Union Cabinet approved the VISTAR scheme for which broad purpose?",
+        "mr": "केंद्रीय मंत्रिमंडळाने VISTAR योजना कोणत्या व्यापक उद्देशासाठी मंजूर केली?",
+        "hi": "केंद्रीय मंत्रिमंडल ने VISTAR योजना किस व्यापक उद्देश्य के लिए मंजूर की?"
+      },
+      "options": {
+        "en": [
+          "Statistical transformation, analytics and research",
+          "Expansion of rural roads",
+          "Promotion of inland waterways",
+          "Universal crop insurance"
+        ],
+        "mr": [
+          "सांख्यिकीय परिवर्तन, विश्लेषण आणि संशोधन",
+          "ग्रामीण रस्त्यांचा विस्तार",
+          "अंतर्गत जलमार्गांना प्रोत्साहन",
+          "सार्वत्रिक पीक विमा"
+        ],
+        "hi": [
+          "सांख्यिकीय परिवर्तन, विश्लेषण और अनुसंधान",
+          "ग्रामीण सड़कों का विस्तार",
+          "अंतर्देशीय जलमार्गों को बढ़ावा",
+          "सार्वभौमिक फसल बीमा"
+        ]
+      },
+      "answer_index": 0,
+      "explanation": {
+        "en": "VISTAR stands for Viksit Bharat Initiative for Statistical Transformation, Analytics & Research. The Cabinet approved it on 4 November 2026 for 2026–27 to 2030–31.",
+        "mr": "VISTAR म्हणजे Viksit Bharat Initiative for Statistical Transformation, Analytics & Research. ही योजना ४ नोव्हेंबर २०२६ रोजी २०२६–२७ ते २०३०–३१ या कालावधीसाठी मंजूर झाली.",
+        "hi": "VISTAR का अर्थ Viksit Bharat Initiative for Statistical Transformation, Analytics & Research है। इसे 4 नवंबर 2026 को 2026–27 से 2030–31 की अवधि के लिए मंजूरी मिली।"
+      },
+      "source_url": "https://www.pib.gov.in/PMContents/PMContents.aspx?Lang=1&RegionId=2&menuid=6&reg=2",
+      "source_name": "Press Information Bureau – Cabinet decisions (official listing)"
+    },
+    {
+      "id": "PRG-20261115-UPSC-002",
+      "exam_tags": [
+        "UPSC CSE"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "Indian Polity",
+      "topic": "Directive Principles",
+      "difficulty": "Easy",
+      "question": {
+        "en": "The Directive Principles of State Policy are contained in which Part of the Constitution of India?",
+        "mr": "भारतीय राज्यघटनेतील राज्याच्या धोरणाची मार्गदर्शक तत्त्वे कोणत्या भागात आहेत?",
+        "hi": "भारतीय संविधान में राज्य के नीति निदेशक तत्व किस भाग में दिए गए हैं?"
+      },
+      "options": {
+        "en": [
+          "Part III",
+          "Part IV",
+          "Part IVA",
+          "Part V"
+        ],
+        "mr": [
+          "भाग III",
+          "भाग IV",
+          "भाग IVA",
+          "भाग V"
+        ],
+        "hi": [
+          "भाग III",
+          "भाग IV",
+          "भाग IVA",
+          "भाग V"
+        ]
+      },
+      "answer_index": 1,
+      "explanation": {
+        "en": "Directive Principles are contained in Part IV (Articles 36–51). They guide the State in making laws and policies and are not enforceable by courts.",
+        "mr": "मार्गदर्शक तत्त्वे भाग IV (कलम ३६–५१) मध्ये आहेत. ती राज्याला कायदे व धोरणे तयार करताना मार्गदर्शन करतात; न्यायालयाद्वारे थेट अंमलात आणता येत नाहीत.",
+        "hi": "नीति निदेशक तत्व भाग IV (अनुच्छेद 36–51) में हैं। ये राज्य को कानून और नीतियाँ बनाने में मार्गदर्शन देते हैं; इन्हें अदालत द्वारा सीधे लागू नहीं कराया जा सकता।"
+      },
+      "source_url": null,
+      "source_name": null
+    },
+    {
+      "id": "PRG-20261115-MPSC-001",
+      "exam_tags": [
+        "MPSC",
+        "Talathi Bharti",
+        "Maharashtra Police Bharti",
+        "ZP Recruitment"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "Maharashtra Geography",
+      "topic": "Godavari River",
+      "difficulty": "Easy",
+      "question": {
+        "en": "The Godavari River originates near which place in Maharashtra?",
+        "mr": "गोदावरी नदीचा उगम महाराष्ट्रातील कोणत्या ठिकाणाजवळ होतो?",
+        "hi": "गोदावरी नदी का उद्गम महाराष्ट्र में किस स्थान के पास होता है?"
+      },
+      "options": {
+        "en": [
+          "Mahabaleshwar",
+          "Trimbakeshwar",
+          "Bhimashankar",
+          "Aundha Nagnath"
+        ],
+        "mr": [
+          "महाबळेश्वर",
+          "त्र्यंबकेश्वर",
+          "भीमाशंकर",
+          "औंढा नागनाथ"
+        ],
+        "hi": [
+          "महाबलेश्वर",
+          "त्र्यंबकेश्वर",
+          "भीमाशंकर",
+          "औंढा नागनाथ"
+        ]
+      },
+      "answer_index": 1,
+      "explanation": {
+        "en": "The Godavari rises near Trimbakeshwar in the Nashik district of Maharashtra and flows eastwards across the Deccan Plateau.",
+        "mr": "गोदावरी नदीचा उगम नाशिक जिल्ह्यातील त्र्यंबकेश्वरजवळ होतो. ती दख्खनच्या पठारातून पूर्वेकडे वाहते.",
+        "hi": "गोदावरी नदी महाराष्ट्र के नासिक जिले में त्र्यंबकेश्वर के पास निकलती है और दक्कन के पठार से पूर्व की ओर बहती है।"
+      },
+      "source_url": null,
+      "source_name": null
+    },
+    {
+      "id": "PRG-20261115-MPSC-002",
+      "exam_tags": [
+        "MPSC"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "Indian Polity / Maharashtra Administration",
+      "topic": "Governor",
+      "difficulty": "Medium",
+      "question": {
+        "en": "Who appoints the Governor of a State in India?",
+        "mr": "भारतामध्ये राज्याच्या राज्यपालांची नियुक्ती कोण करतो?",
+        "hi": "भारत में किसी राज्य के राज्यपाल की नियुक्ति कौन करता है?"
+      },
+      "options": {
+        "en": [
+          "Chief Minister",
+          "President of India",
+          "Chief Justice of the High Court",
+          "State Legislature"
+        ],
+        "mr": [
+          "मुख्यमंत्री",
+          "भारताचे राष्ट्रपती",
+          "उच्च न्यायालयाचे मुख्य न्यायमूर्ती",
+          "राज्य विधिमंडळ"
+        ],
+        "hi": [
+          "मुख्यमंत्री",
+          "भारत के राष्ट्रपति",
+          "उच्च न्यायालय के मुख्य न्यायाधीश",
+          "राज्य विधानमंडल"
+        ]
+      },
+      "answer_index": 1,
+      "explanation": {
+        "en": "Under Article 155 of the Constitution, the Governor of a State is appointed by the President of India.",
+        "mr": "राज्यघटनेच्या कलम १५५ नुसार राज्यपालांची नियुक्ती भारताचे राष्ट्रपती करतात.",
+        "hi": "संविधान के अनुच्छेद 155 के अनुसार राज्यपाल की नियुक्ति भारत के राष्ट्रपति करते हैं।"
+      },
+      "source_url": null,
+      "source_name": null
+    },
+    {
+      "id": "PRG-20261115-BANK-001",
+      "exam_tags": [
+        "SBI PO",
+        "SBI Clerk",
+        "IBPS PO",
+        "IBPS Clerk",
+        "RBI Assistant"
+      ],
+      "type": "CURRENT_AFFAIRS",
+      "source_date": "2026-11-12",
+      "subject": "Banking Awareness",
+      "topic": "Liquidity adjustment facility / VRRR",
+      "difficulty": "Medium",
+      "question": {
+        "en": "According to the RBI notice dated 12 November 2026, what was the notified amount for the 3-day VRRR auction scheduled for 13 November 2026?",
+        "mr": "१२ नोव्हेंबर २०२६ च्या RBI सूचनेनुसार १३ नोव्हेंबर २०२६ रोजी नियोजित ३-दिवसीय VRRR लिलावासाठी किती रक्कम अधिसूचित केली होती?",
+        "hi": "12 नवंबर 2026 की RBI सूचना के अनुसार 13 नवंबर 2026 को निर्धारित 3-दिवसीय VRRR नीलामी के लिए कितनी राशि अधिसूचित की गई थी?"
+      },
+      "options": {
+        "en": [
+          "₹25,000 crore",
+          "₹50,000 crore",
+          "₹75,000 crore",
+          "₹1,00,000 crore"
+        ],
+        "mr": [
+          "₹२५,००० कोटी",
+          "₹५०,००० कोटी",
+          "₹७५,००० कोटी",
+          "₹१,००,००० कोटी"
+        ],
+        "hi": [
+          "₹25,000 करोड़",
+          "₹50,000 करोड़",
+          "₹75,000 करोड़",
+          "₹1,00,000 करोड़"
+        ]
+      },
+      "answer_index": 2,
+      "explanation": {
+        "en": "The RBI notice specified ₹75,000 crore for a 3-day Variable Rate Reverse Repo auction. VRRR is used to absorb liquidity from the banking system.",
+        "mr": "RBI ने ३-दिवसीय Variable Rate Reverse Repo लिलावासाठी ₹७५,००० कोटी अधिसूचित केले. VRRR चा उपयोग बँकिंग व्यवस्थेतील अतिरिक्त तरलता शोषण्यासाठी होतो.",
+        "hi": "RBI ने 3-दिवसीय Variable Rate Reverse Repo नीलामी के लिए ₹75,000 करोड़ अधिसूचित किए। VRRR का उपयोग बैंकिंग प्रणाली से अतिरिक्त तरलता अवशोषित करने के लिए होता है।"
+      },
+      "source_url": "https://rbi.org.in/scripts/FS_PressRelease.aspx?fn=2752&prid=63965",
+      "source_name": "Reserve Bank of India – Press Release, 12 November 2026"
+    },
+    {
+      "id": "PRG-20261115-BANK-002",
+      "exam_tags": [
+        "SBI PO",
+        "IBPS PO",
+        "IBPS Clerk"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "Quantitative Aptitude",
+      "topic": "Percentage",
+      "difficulty": "Easy",
+      "question": {
+        "en": "A bank account balance increases from ₹8,000 to ₹9,200. What is the percentage increase?",
+        "mr": "बँक खात्यातील शिल्लक ₹८,००० वरून ₹९,२०० झाली. वाढीची टक्केवारी किती?",
+        "hi": "बैंक खाते की राशि ₹8,000 से बढ़कर ₹9,200 हो गई। प्रतिशत वृद्धि कितनी है?"
+      },
+      "options": {
+        "en": [
+          "10%",
+          "12%",
+          "15%",
+          "18%"
+        ],
+        "mr": [
+          "१०%",
+          "१२%",
+          "१५%",
+          "१८%"
+        ],
+        "hi": [
+          "10%",
+          "12%",
+          "15%",
+          "18%"
+        ]
+      },
+      "answer_index": 2,
+      "explanation": {
+        "en": "Increase = 9,200 − 8,000 = 1,200. Percentage increase = (1,200 ÷ 8,000) × 100 = 15%.",
+        "mr": "वाढ = ९,२०० − ८,००० = १,२००. टक्केवारी वाढ = (१,२०० ÷ ८,०००) × १०० = १५%.",
+        "hi": "वृद्धि = 9,200 − 8,000 = 1,200। प्रतिशत वृद्धि = (1,200 ÷ 8,000) × 100 = 15%。"
+      },
+      "source_url": null,
+      "source_name": null
+    },
+    {
+      "id": "PRG-20261115-SSC-001",
+      "exam_tags": [
+        "SSC CGL",
+        "SSC CHSL",
+        "SSC MTS",
+        "SSC CPO"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "Quantitative Aptitude",
+      "topic": "Ratio and proportion",
+      "difficulty": "Easy",
+      "question": {
+        "en": "If 3 : 5 = x : 40, what is the value of x?",
+        "mr": "जर ३ : ५ = x : ४० असेल, तर x ची किंमत किती?",
+        "hi": "यदि 3 : 5 = x : 40 है, तो x का मान क्या होगा?"
+      },
+      "options": {
+        "en": [
+          "18",
+          "20",
+          "24",
+          "30"
+        ],
+        "mr": [
+          "१८",
+          "२०",
+          "२४",
+          "३०"
+        ],
+        "hi": [
+          "18",
+          "20",
+          "24",
+          "30"
+        ]
+      },
+      "answer_index": 2,
+      "explanation": {
+        "en": "3/5 = x/40, so x = (3 × 40)/5 = 24.",
+        "mr": "३/५ = x/४०. म्हणून x = (३ × ४०)/५ = २४.",
+        "hi": "3/5 = x/40, इसलिए x = (3 × 40)/5 = 24।"
+      },
+      "source_url": null,
+      "source_name": null
+    },
+    {
+      "id": "PRG-20261115-SSC-002",
+      "exam_tags": [
+        "SSC CGL",
+        "SSC CHSL",
+        "SSC CPO"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "Reasoning",
+      "topic": "Number series",
+      "difficulty": "Easy",
+      "question": {
+        "en": "Find the next number: 2, 6, 12, 20, 30, __.",
+        "mr": "पुढील संख्या शोधा: २, ६, १२, २०, ३०, __.",
+        "hi": "अगली संख्या ज्ञात कीजिए: 2, 6, 12, 20, 30, __।"
+      },
+      "options": {
+        "en": [
+          "36",
+          "40",
+          "42",
+          "44"
+        ],
+        "mr": [
+          "३६",
+          "४०",
+          "४२",
+          "४४"
+        ],
+        "hi": [
+          "36",
+          "40",
+          "42",
+          "44"
+        ]
+      },
+      "answer_index": 2,
+      "explanation": {
+        "en": "The terms are 1×2, 2×3, 3×4, 4×5, 5×6; the next is 6×7 = 42.",
+        "mr": "पदांचा क्रम १×२, २×३, ३×४, ४×५, ५×६ असा आहे. पुढील पद ६×७ = ४२.",
+        "hi": "पदों का क्रम 1×2, 2×3, 3×4, 4×5, 5×6 है। अगला पद 6×7 = 42 होगा।"
+      },
+      "source_url": null,
+      "source_name": null
+    },
+    {
+      "id": "PRG-20261115-RAIL-001",
+      "exam_tags": [
+        "RRB NTPC",
+        "RRB Group D",
+        "RRB ALP"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "General Science",
+      "topic": "Physics – SI units",
+      "difficulty": "Easy",
+      "question": {
+        "en": "What is the SI unit of electric resistance?",
+        "mr": "विद्युत प्रतिरोधाचे SI एकक कोणते?",
+        "hi": "विद्युत प्रतिरोध की SI इकाई क्या है?"
+      },
+      "options": {
+        "en": [
+          "Volt",
+          "Ampere",
+          "Ohm",
+          "Watt"
+        ],
+        "mr": [
+          "व्होल्ट",
+          "अँपिअर",
+          "ओहम",
+          "वॅट"
+        ],
+        "hi": [
+          "वोल्ट",
+          "एम्पियर",
+          "ओम",
+          "वाट"
+        ]
+      },
+      "answer_index": 2,
+      "explanation": {
+        "en": "The SI unit of electrical resistance is the ohm (Ω), named after physicist Georg Simon Ohm.",
+        "mr": "विद्युत प्रतिरोधाचे SI एकक ओहम (Ω) आहे. हे नाव भौतिकशास्त्रज्ञ जॉर्ज सायमन ओहम यांच्या नावावरून पडले आहे.",
+        "hi": "विद्युत प्रतिरोध की SI इकाई ओम (Ω) है। इसका नाम भौतिक विज्ञानी जॉर्ज साइमन ओम के नाम पर रखा गया है।"
+      },
+      "source_url": null,
+      "source_name": null
+    },
+    {
+      "id": "PRG-20261115-RAIL-002",
+      "exam_tags": [
+        "RRB NTPC",
+        "RRB Group D"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "Mathematics",
+      "topic": "Time and work",
+      "difficulty": "Medium",
+      "question": {
+        "en": "A worker completes a job in 12 days. At the same rate, what fraction of the job is completed in 3 days?",
+        "mr": "एक कामगार एखादे काम १२ दिवसांत पूर्ण करतो. त्याच वेगाने ३ दिवसांत कामाचा किती भाग पूर्ण होईल?",
+        "hi": "एक श्रमिक किसी काम को 12 दिनों में पूरा करता है। उसी गति से 3 दिनों में काम का कितना भाग पूरा होगा?"
+      },
+      "options": {
+        "en": [
+          "1/2",
+          "1/3",
+          "1/4",
+          "1/6"
+        ],
+        "mr": [
+          "१/२",
+          "१/३",
+          "१/४",
+          "१/६"
+        ],
+        "hi": [
+          "1/2",
+          "1/3",
+          "1/4",
+          "1/6"
+        ]
+      },
+      "answer_index": 2,
+      "explanation": {
+        "en": "One day's work = 1/12. In 3 days: 3/12 = 1/4 of the job.",
+        "mr": "एका दिवसाचे काम = १/१२. तीन दिवसांचे काम = ३/१२ = १/४.",
+        "hi": "एक दिन का काम = 1/12। तीन दिनों का काम = 3/12 = 1/4।"
+      },
+      "source_url": null,
+      "source_name": null
+    },
+    {
+      "id": "PRG-20261115-DEF-001",
+      "exam_tags": [
+        "NDA",
+        "CDS",
+        "AFCAT",
+        "Defence Recruitment"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "Physics",
+      "topic": "Projectile motion",
+      "difficulty": "Medium",
+      "question": {
+        "en": "At what angle of projection (on level ground, neglecting air resistance) is the horizontal range maximum?",
+        "mr": "समतल जमिनीवर (हवेचा प्रतिकार दुर्लक्षित करून) प्रक्षेपणाचा आडवा पल्ला कोणत्या कोनात सर्वाधिक असतो?",
+        "hi": "समतल भूमि पर (वायु प्रतिरोध की उपेक्षा करके) प्रक्षेप्य की क्षैतिज दूरी किस कोण पर अधिकतम होती है?"
+      },
+      "options": {
+        "en": [
+          "30°",
+          "45°",
+          "60°",
+          "90°"
+        ],
+        "mr": [
+          "३०°",
+          "४५°",
+          "६०°",
+          "९०°"
+        ],
+        "hi": [
+          "30°",
+          "45°",
+          "60°",
+          "90°"
+        ]
+      },
+      "answer_index": 1,
+      "explanation": {
+        "en": "For a projectile launched and landing at the same height, range is R = u² sin(2θ)/g. It is maximum when sin(2θ)=1, so θ=45°.",
+        "mr": "समान उंचीवरून प्रक्षेपण व अवतरण असल्यास R = u² sin(2θ)/g. sin(2θ)=१ असताना पल्ला कमाल असतो; म्हणून θ=४५°.",
+        "hi": "जब प्रक्षेपण और अवतरण समान ऊँचाई पर हों, R = u² sin(2θ)/g। sin(2θ)=1 होने पर दूरी अधिकतम होती है, इसलिए θ=45°।"
+      },
+      "source_url": null,
+      "source_name": null
+    },
+    {
+      "id": "PRG-20261115-DEF-002",
+      "exam_tags": [
+        "NDA",
+        "CDS"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "Mathematics",
+      "topic": "Trigonometry",
+      "difficulty": "Easy",
+      "question": {
+        "en": "If sin θ = 3/5 and θ is acute, what is cos θ?",
+        "mr": "जर sin θ = ३/५ आणि θ हा लघुकोन असेल, तर cos θ किती?",
+        "hi": "यदि sin θ = 3/5 और θ न्यून कोण है, तो cos θ कितना होगा?"
+      },
+      "options": {
+        "en": [
+          "2/5",
+          "3/4",
+          "4/5",
+          "5/4"
+        ],
+        "mr": [
+          "२/५",
+          "३/४",
+          "४/५",
+          "५/४"
+        ],
+        "hi": [
+          "2/5",
+          "3/4",
+          "4/5",
+          "5/4"
+        ]
+      },
+      "answer_index": 2,
+      "explanation": {
+        "en": "Using sin²θ + cos²θ = 1, cos θ = √(1 − 9/25) = √(16/25) = 4/5 because θ is acute.",
+        "mr": "sin²θ + cos²θ = १. cos θ = √(१ − ९/२५) = √(१६/२५) = ४/५. θ लघुकोन असल्याने धन मूल्य घेतले जाते.",
+        "hi": "sin²θ + cos²θ = 1 से cos θ = √(1 − 9/25) = √(16/25) = 4/5। θ न्यून कोण है, इसलिए धनात्मक मान लिया जाता है।"
+      },
+      "source_url": null,
+      "source_name": null
+    },
+    {
+      "id": "PRG-20261115-TEACH-001",
+      "exam_tags": [
+        "CTET",
+        "Maha TET",
+        "State TET"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "Child Development and Pedagogy",
+      "topic": "Constructivism",
+      "difficulty": "Medium",
+      "question": {
+        "en": "Which classroom practice best reflects a constructivist approach to learning?",
+        "mr": "रचनावादी अध्ययनपद्धतीचे सर्वाधिक योग्य उदाहरण कोणते?",
+        "hi": "रचनावादी अधिगम दृष्टिकोण को कक्षा में सबसे अच्छी तरह कौन-सी गतिविधि दर्शाती है?"
+      },
+      "options": {
+        "en": [
+          "Students memorise a definition without discussion",
+          "Teacher gives all answers before an activity",
+          "Students investigate a problem and build explanations using prior knowledge",
+          "Students copy notes silently for the whole period"
+        ],
+        "mr": [
+          "विद्यार्थी चर्चा न करता व्याख्या पाठ करतात",
+          "उपक्रमापूर्वी शिक्षक सर्व उत्तरे सांगतात",
+          "विद्यार्थी पूर्वज्ञान वापरून समस्येचा शोध घेतात व स्पष्टीकरण तयार करतात",
+          "विद्यार्थी संपूर्ण तास शांतपणे नोंदी उतरवतात"
+        ],
+        "hi": [
+          "विद्यार्थी बिना चर्चा के परिभाषा याद करते हैं",
+          "गतिविधि से पहले शिक्षक सभी उत्तर बता देते हैं",
+          "विद्यार्थी पूर्वज्ञान के आधार पर समस्या की जाँच कर अपनी व्याख्या बनाते हैं",
+          "विद्यार्थी पूरे समय चुपचाप नोट्स नकल करते हैं"
+        ]
+      },
+      "answer_index": 2,
+      "explanation": {
+        "en": "Constructivism views learners as active builders of understanding. Investigation, discussion and connecting new ideas to prior knowledge support this approach.",
+        "mr": "रचनावादानुसार विद्यार्थी स्वतः ज्ञानाची निर्मिती करतात. शोध, चर्चा आणि नवीन संकल्पना पूर्वज्ञानाशी जोडणे या पद्धतीला पूरक असते.",
+        "hi": "रचनावाद के अनुसार विद्यार्थी सक्रिय रूप से ज्ञान का निर्माण करते हैं। खोज, चर्चा और नए विचारों को पूर्वज्ञान से जोड़ना इस दृष्टिकोण का आधार है।"
+      },
+      "source_url": null,
+      "source_name": null
+    },
+    {
+      "id": "PRG-20261115-TEACH-002",
+      "exam_tags": [
+        "CTET",
+        "Maha TET",
+        "State TET"
+      ],
+      "type": "ORIGINAL_PRACTICE",
+      "source_date": null,
+      "subject": "Inclusive Education",
+      "topic": "Differentiated instruction",
+      "difficulty": "Medium",
+      "question": {
+        "en": "A teacher provides the same learning objective but allows students to demonstrate understanding through a written response, oral explanation or diagram. This is an example of:",
+        "mr": "शिक्षक समान अध्ययन उद्दिष्ट ठेवून विद्यार्थ्यांना लेखी उत्तर, मौखिक स्पष्टीकरण किंवा आकृतीद्वारे समज दाखवण्याची संधी देतो. हे कशाचे उदाहरण आहे?",
+        "hi": "शिक्षक समान अधिगम उद्देश्य रखते हुए विद्यार्थियों को लिखित उत्तर, मौखिक व्याख्या या चित्र के माध्यम से समझ दिखाने का विकल्प देता है। यह किसका उदाहरण है?"
+      },
+      "options": {
+        "en": [
+          "Differentiated instruction",
+          "Punitive assessment",
+          " rote learning",
+          "Standardised grouping"
+        ],
+        "mr": [
+          "विभेदीकृत अध्यापन",
+          "दंडात्मक मूल्यमापन",
+          "पाठांतराधारित अध्ययन",
+          "एकसमान गटबांधणी"
+        ],
+        "hi": [
+          "विभेदीकृत शिक्षण",
+          "दंडात्मक मूल्यांकन",
+          "रटकर सीखना",
+          "मानकीकृत समूह बनाना"
+        ]
+      },
+      "answer_index": 0,
+      "explanation": {
+        "en": "Differentiated instruction offers flexible ways for learners to access content or demonstrate learning while keeping the learning goal clear.",
+        "mr": "विभेदीकृत अध्यापनात अध्ययन उद्दिष्ट समान ठेवून विद्यार्थ्यांना शिकण्याचे किंवा समज दाखवण्याचे लवचिक पर्याय दिले जातात.",
+        "hi": "विभेदीकृत शिक्षण में अधिगम लक्ष्य समान रखते हुए विद्यार्थियों को सीखने या अपनी समझ दिखाने के लचीले विकल्प दिए जाते हैं।"
+      },
+      "source_url": null,
+      "source_name": null
+    }
+  ]
+}
